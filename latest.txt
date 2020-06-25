@@ -1,0 +1,8 @@
+1|Baby Driver|English|11:30AM|2Hr|4.5|Available|
+3|KGF 2|Kannada|4:30PM|3Hr|4.5|Filled|
+4|Jojo Rabbit|English|1:30PM|2.5Hr|4|Fast Filling|
+5|Extraction|English|7:30PM|2.5Hr|4|Fast Filling|
+6|Solo|Malayalam|9:30PM|3Hr|4|Available|
+7|OM|Kannada|7:30PM|3Hr|4.5|Filled|
+8|UP|English|11:30AM|fdcx|4.5|Available|
+10|2020|English|11:30AM|2Hr|4|Available|
